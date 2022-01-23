@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prince Garg</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Digital Steganography](https://github.com/PrinceGarg23/Digital-Steganography)
+- 🔭 I’m currently working on FireBase Concepts.
 
 - 👨‍💻 I’m currently learning **Android Development**
 
 - 🌱 All of my projects are available  [here](https://github.com/PrinceGarg23)
 
-- 💬 Ask me about **Cryptography, Steganography, Web Development.**
+- 💬 Ask me about **Android, Cryptography, Steganography, Web Development.**
 
 - 📫 How to reach me **princegarg230@gmail.com**
 

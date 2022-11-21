@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on FireBase Concepts.
 
-- 👨‍💻 I’m currently learning **Android Development**
+- 👨‍💻 I’m currently learning **BlockChain Technology and Smart Contracts.**
 
 - 🌱 All of my projects are available  [here](https://github.com/PrinceGarg23)
 

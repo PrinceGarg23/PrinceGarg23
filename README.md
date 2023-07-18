@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **princegarg230@gmail.com**
 
-- 📄 Know about my experiences here : [Resume](https://drive.google.com/file/d/1hDkFHfOUvZaBEZGec-_Qbcf0UZHa3MUQ/view?usp=sharing)
+- 📄 Know about my experiences here : [Resume](https://drive.google.com/file/d/1YuNeD9EnjvVUf69xOBzFEudO1HSVGtaM/view?usp=drive_link)
 
 # Connect with me:
 <p align="left">

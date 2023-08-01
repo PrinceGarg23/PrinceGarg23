@@ -21,7 +21,7 @@
 </p>
 
 # Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,nextjs,figma,androidstudio,firebase,c,cpp,git,github,remix,solidity,html,css,bootstrap,sass&theme=dark)](https://skillicons.dev)
 
 # Stats 📊
 

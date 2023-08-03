@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Garg</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
-- 🔭 I’m currently working on FireBase Concepts.
+- 🔭 I’m currently working on DSA Concepts.
 
 - 👨‍💻 I’m currently learning **BlockChain Technology and Smart Contracts.**
 

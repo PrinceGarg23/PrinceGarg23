@@ -20,13 +20,8 @@
 <a href="https://instagram.com/prince_garg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_garg_" height="30" width="40" /></a>
 </p>
 
-# Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,nextjs,figma,androidstudio,firebase,c,cpp,git,github,remix,solidity,html,css,bootstrap,sass&theme=dark)](https://skillicons.dev)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceGarg23&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrinceGarg23" /></p>
 
-# Stats 📊
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceGarg23&show_icons=true&locale=en&theme=dark" alt="PrinceGarg23" /></p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrinceGarg23&show_icons=true&hide_border=false&theme=tokyonight" alt="Git Stats" />
-
-# Language 📕
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceGarg23&theme=tokyonight&layout=compact)](https://github.com/PrinceGarg23/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceGarg23&theme=dark" alt="PrinceGarg23" /></p>

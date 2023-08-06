@@ -19,9 +19,9 @@
 <a href="https://linkedin.com/in/prince-garg-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-garg-" height="30" width="40" /></a>
 <a href="https://instagram.com/prince_garg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_garg_" height="30" width="40" /></a>
 </p>
-
+# 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceGarg23&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrinceGarg23" /></p>
-
+# 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceGarg23&show_icons=true&locale=en&theme=dark" alt="PrinceGarg23" /></p>
-
+# 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceGarg23&theme=dark" alt="PrinceGarg23" /></p>

@@ -1,4 +1,4 @@
-<div class="banner-gif" align="center">
+<div class="banner-gif" align="center" height="300">
 <p><img src="./assets/read.png"></p>
 </div>
 <h1 align="center">Hi 👋, I'm Prince Garg</h1>

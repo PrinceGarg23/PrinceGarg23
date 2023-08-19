@@ -13,6 +13,9 @@
 
 - 📄 Know about my experiences here : [Resume](https://drive.google.com/file/d/1YuNeD9EnjvVUf69xOBzFEudO1HSVGtaM/view?usp=drive_link)
 
+# My Problem Solving Stats:
+<p><img src="https://stats.justsong.cn/api/leetcode/?username=prince_garg_&theme=dark"></p>
+
 # Connect with me:
 <p align="left">
 <a href="https://twitter.com/prince_garg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prince_garg_" height="30" width="40" /></a>
@@ -20,8 +23,11 @@
 <a href="https://instagram.com/prince_garg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_garg_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceGarg23&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrinceGarg23" /></p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceGarg23&show_icons=true&locale=en&theme=dark" alt="PrinceGarg23" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceGarg23&theme=dark" alt="PrinceGarg23" /></p>
-<br>
+# My Github Stats:
+<p><img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceGarg23&theme=radical" alt="PrinceGarg23" /></p>
+
+# 
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceGarg23&theme=radical" alt="PrinceGarg23" /></p>
+<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceGarg23&theme=radical" alt="PrinceGarg23" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrinceGarg23&theme=radical" alt="PrinceGarg23" /></p>
+<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrinceGarg23&theme=radical" alt="PrinceGarg23" /></p>
